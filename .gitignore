@@ -5,5 +5,9 @@ venv
 *.pyc
 *.cfg
 
+# Build directories from python setup.py install
+build
+dist
+
 # Egg info
 toy_implicit_generalization.egg-info

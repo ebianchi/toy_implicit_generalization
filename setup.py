@@ -7,7 +7,6 @@ setup(
                + 'in building accurate dynamics models.',
    author='Bibit Bianchini',
    author_email='bibit@seas.upenn.edu',
-   packages=['toy_implicit_generalization'],
    install_requires=[
       'matplotlib',
       'numpy'
