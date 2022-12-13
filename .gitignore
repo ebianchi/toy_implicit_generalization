@@ -1,0 +1,9 @@
+# Python virtual environment
+venv
+
+# Compiled code
+*.pyc
+*.cfg
+
+# Egg info
+toy_implicit_generalization.egg-info
